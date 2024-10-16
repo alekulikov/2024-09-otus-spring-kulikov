@@ -1,0 +1,4 @@
+# header
+first question;answer one%true|answer two%false
+second question;answer one%false|answer two%true
+third question;answer one%false|answer two%false|answer third%true
